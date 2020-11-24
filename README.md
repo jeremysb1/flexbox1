@@ -1,2 +1,3 @@
 # flexbox1
-Getting started with Flexbox
+
+This is a simple project designed to teach me some basics of Flexbox.
